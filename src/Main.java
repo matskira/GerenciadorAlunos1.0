@@ -7,7 +7,7 @@ public class Main {
 	//	ProfessorController novoProfessor = new ProfessorController();
 	//	novoProfessor.testaProfessor();		
 	//	AlunoController testaAluno = new AlunoController();
-		AlunoView testaViewAluno = new AlunoView();
+		new AlunoView().iniciarGui();
 	}
 }
 
